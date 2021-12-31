@@ -42,5 +42,6 @@ void divi()
 	scanf("%f %f",&a,&b);
 	d=a/b;
 	printf("\ndivision of a,b: %f",d);
+	
 }
 
